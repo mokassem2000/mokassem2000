@@ -6,24 +6,10 @@ I'm Mohamed, a passionate .NET developer with 1 years of experience in building 
 
 - **Languages:** C#,JavaScript,Typescript,
 - **Frameworks:** .NET Core, ASP.NET MVC, ASP.NET Web API
-- **Concepts:**  oop,Solid, Design Patterns,DDD
+- **Concepts:**  oop, Solid, Design Patterns, DDD
 - **Frontend:** HTML, CSS, BootStrap, Angular
 - **Database:** SQL Server, Entity Framework
-- **Tools:** Visual Studio, Git,Postman
-
-## 🔭 Projects
-
-### [Project 1]
-
-- *Description:* Briefly describe the project, its purpose, and the technologies used.
-- *GitHub Repository:* Provide a link to the GitHub repository, if it's open source.
-- *Demo Link:* If applicable, provide a link to a live demo or hosted version of the project.
-
-### [Project 2]
-
-- *Description:* Briefly describe the project, its purpose, and the technologies used.
-- *GitHub Repository:* Provide a link to the GitHub repository, if it's open source.
-- *Demo Link:* If applicable, provide a link to a live demo or hosted version of the project.
+- **Tools:** Visual Studio, Git, Postman
 
 ## 📫 How to reach me
 
@@ -32,7 +18,9 @@ I'm Mohamed, a passionate .NET developer with 1 years of experience in building 
 
 ## 🌱 Interests
 
-Share some of your non-professional interests and hobbies, like books, sports, or volunteering. This can help others connect with you on a more personal level.
+- 📚 Reading: I love diving into a good book, especially Non-fiction.
+- ⚽ Sports: I enjoy playing soccer on the weekends and following my favorite team Al Ahly SC.
+- ✈️ Traveling: I love exploring new places, experiencing different cultures, and creating unforgettable memories through travel.
 
 ## 🤝 Looking to collaborate?
 
