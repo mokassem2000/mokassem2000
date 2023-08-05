@@ -1,32 +1,15 @@
 ## Hi there! 👋
 
-I'm Mohamed, a passionate .NET developer with [X] years of experience in building web applications and software solutions. I enjoy working on challenging projects that leverage the power of the .NET ecosystem and constantly strive to learn and improve my skills.
+I'm Mohamed, a passionate .NET developer with 1 years of experience in building web applications and software solutions. I enjoy working on challenging projects that leverage the power of the .NET ecosystem and constantly strive to learn and improve my skills.
 
 ## 🚀 Skills
 
-- **Languages:** C#, VB.NET
+- **Languages:** C#,JavaScript,Typescript,
 - **Frameworks:** .NET Core, ASP.NET MVC, ASP.NET Web API
-- **Frontend:** HTML, CSS, JavaScript, Razor
+- **Concepts:**  oop,Solid, Design Patterns,DDD
+- **Frontend:** HTML, CSS, BootStrap, Angular
 - **Database:** SQL Server, Entity Framework
-- **Testing:** MSTest, NUnit
-- **Tools:** Visual Studio, Git, Azure DevOps
-
-## 💼 Professional Experience
-
-- **[Your Current Company]**
-  - *Role:* .NET Developer
-  - *Duration:* [Start Date] to Present
-  - *Description:* Briefly describe your role, responsibilities, and notable achievements at your current company.
-
-- **[Previous Company 1]**
-  - *Role:* .NET Developer
-  - *Duration:* [Start Date] to [End Date]
-  - *Description:* Briefly describe your role, responsibilities, and notable achievements at this company.
-
-- **[Previous Company 2]**
-  - *Role:* .NET Developer
-  - *Duration:* [Start Date] to [End Date]
-  - *Description:* Briefly describe your role, responsibilities, and notable achievements at this company.
+- **Tools:** Visual Studio, Git,Postman
 
 ## 🔭 Projects
 
@@ -44,10 +27,8 @@ I'm Mohamed, a passionate .NET developer with [X] years of experience in buildin
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [@YourTwitterHandle]
-- Personal Website/Portfolio: [yourwebsite.com]
+- Email: qasm15766@gmail.com
+- LinkedIn: www.linkedin.com/in/mohamed-kassem-116660205
 
 ## 🌱 Interests
 
