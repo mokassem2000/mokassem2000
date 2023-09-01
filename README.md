@@ -6,7 +6,7 @@ I'm Mohamed, a passionate .NET developer with 1 years of experience in building 
 
 - **Languages:** C#,JavaScript,Typescript,
 - **Frameworks:** .NET Core, ASP.NET MVC, ASP.NET Web API
-- **Concepts:**  oop, Solid, Design Patterns, DDD
+- **Concepts:**  oop, Solid, Design Patterns
 - **Frontend:** HTML, CSS, BootStrap, Angular
 - **Database:** SQL Server, Entity Framework
 - **Tools:** Visual Studio, Git, Postman
