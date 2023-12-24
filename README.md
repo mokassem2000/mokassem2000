@@ -12,7 +12,7 @@ I'm Mohamed, a passionate .NET developer with 1 years of experience in building 
 - **Tools:** Visual Studio, Git, Postman
 
 ## 📫 How to reach me
-[![LinkedIn](www.linkedin.com/in/mohamed-kassem-116660205)
+[LinkedIn](www.linkedin.com/in/mohamed-kassem-116660205)
 📧 [Email](qasm15766@gmail.com)
 
 
