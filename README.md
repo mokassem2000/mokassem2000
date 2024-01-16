@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">i am mohmaed kasse .net full stack developer with 1 years of experience in building web applications and software solutions. I enjoy working on challenging projects that leverage the power of the .NET ecosystem and constantly strive to learn and improve my skills.</p>
+<p align="left">I am mohmaed kassem .net full stack developer with 1 years of experience in building web applications and software solutions. I enjoy working on challenging projects that leverage the power of the .NET ecosystem and constantly strive to learn and improve my skills.</p>
 
 ###
 
